@@ -1,7 +1,8 @@
 {
   "name": "shopping-cart",
   "version": "0.1.0",
-  "private": true,
+  "description": "",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
