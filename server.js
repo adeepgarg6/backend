@@ -85,7 +85,7 @@ app.get('/',(req,res)=>{
     res.send('it is working');
 })
 
-app.listen(5000, () => {
+app.listen(process.env.PORT || 5000, () => {
     console.log('Server is up on port ' + 5000)
 })
 
