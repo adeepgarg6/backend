@@ -20,6 +20,6 @@
     "node": "12.10.0"
   },
   "scripts": {
-    "server": "nodemon server"
+    "start": "nodemon server"
   }
 }
